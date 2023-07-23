@@ -7,7 +7,7 @@
 
 console.log("Aqui ira todo tu codigo...EXITOS !!!");
 
-//Valor de un 1 Dolar en las diferentes monedas
+//Value of 1 Dollar in different currencies
 var valores = {
   10: 6.85,   // Bolivianos
   20: 823.72, // Pesos Chilenos
